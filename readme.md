@@ -1,7 +1,5 @@
 ## Database Capstone Project
 
----
-
 This is a capstone project for the Database Engineer Course at Coursera. The project is about creating a database for a fictional company called Little Lemon.
 
 ### Project Description
