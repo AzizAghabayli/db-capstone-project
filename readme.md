@@ -11,11 +11,10 @@ Little Lemon restaurant needs to build a relational database system in MySQL to 
 1. Set up the database
 2. Create and implement an ER diagram
 3. Create tables and relationships
-4. Populate the database
-5. Create sales reports
-6. Build a booking system
-7. Generate data insights
-8. Create a database client
+4. Create sales reports
+5. Build a booking system
+6. Generate data insights
+7. Create a database client
 
 ### Technologies Used
 
